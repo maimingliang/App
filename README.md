@@ -7,7 +7,7 @@ Android 仿微信视频播放
 # 效果图
 
 
-![效果图02](https://github.com/maimingliang/previewphoto/blob/master/001.gif)
+![详解](http://www.jianshu.com/p/872f9ea87817)
 
 
 # 使用
