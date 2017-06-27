@@ -4,8 +4,6 @@
 
 Android 仿微信视频播放
 
-# 效果图
-
 
 [详情请看](http://www.jianshu.com/p/872f9ea87817)
 
